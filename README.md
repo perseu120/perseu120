@@ -24,7 +24,7 @@
 </p>
 
 
-![Josimar Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=perseu120&theme=tokyonight)
+![Josimar Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=perseu120&theme=dracula)
 
 
 
