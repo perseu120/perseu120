@@ -10,6 +10,8 @@
 <a href="https://github.com/perseu120" target="_blank"><img align="center" src="Icon/github.png" alt="Josimar" height="40" width="40" ></a>
 </p>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=perseu120)
+
 <h3 align="left">Linguagem e Ferramentas com que eu já tive contato:</h3>
 <p align="left">  
  <a href="https://www.oracle.com/br/java/" target="_blank"> <figure> <img src="./Icon/java.png" alt="java" width="40" height="40"> <figcaption> Java</figcaption> </figure> </a>
