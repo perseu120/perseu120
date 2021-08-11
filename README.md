@@ -1,13 +1,13 @@
-<h1 align="center">Ola! eu me chamo josimar 👨‍💻☕</h1>
+<h1 align="center">Ola! eu me chamo josimar 👨‍💻</h1>
 <h3 align="center">Eu adoro programar, e sou persistente.</h3>
 
 - 📖 Estou Iniciando na programação e as linguagem que mais conheço é java☕ e c++ mas tambem estou aprendendo JavaScript, Css e Html
 
 <h3 align="left">Você pode me encontrar:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/josimar-cruz-souza-a669a3218/" target="blank"><img align="center" src="./icon/linkedin.png" alt="Josimar" height="40" width="40" /></a>
-<a href="https://www.instagram.com/sir_perseu/?hl=pt-br" target="blank"><img align="center" src="./icon/instagram.png" alt="Josimar" height="40" width="40" /></a>
-<a href="https://github.com/perseu120" target="blank"><img align="center" src="./icon/github.png" alt="Josimar" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/josimar-cruz-souza-a669a3218/" target="_blank"><img align="center" src="./icon/linkedin.png" alt="Josimar" height="40" width="40" /></a>
+<a href="https://www.instagram.com/sir_perseu/?hl=pt-br" target="_blank"><img align="center" src="./icon/instagram.png" alt="Josimar" height="40" width="40" /></a>
+<a href="https://github.com/perseu120" target="_blank"><img align="center" src="./icon/github.png" alt="Josimar" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagem e Ferramentas com que eu já tive contato:</h3>
