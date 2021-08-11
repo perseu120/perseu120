@@ -13,26 +13,15 @@
 <h3 align="left">Linguagem e Ferramentas com que eu já tive contato:</h3>
 <p align="left">  
  <a href="https://www.oracle.com/br/java/" target="_blank"> <figure> <img src="./icon/java.png" alt="java" width="40" height="40"/> <figcaption> Java</figcaption> </figure> </a>
-
  <a href="https://www.cplusplus.com " target="_blank"> <figure> <img src="./icon/c++.png" alt="C++" width="40" height="40"/> <figcaption> C++</figcaption> </figure>  </a>
-
  <a href="https://docs.python.org/pt-br/3/ " target="_blank"> <figure> <img src="./icon/python.png" alt="Python" width="40" height="40"/> <figcaption> Python</figcaption> </figure>  </a>
-
  <a href="https://git-scm.com/" target="_blank"> <figure> <img src="./icon/git.png" alt="Git" width="40" height="40"/> <figcaption> Git</figcaption> </figure> </a>
-
  <a href="https://www.w3.org/html/" target="_blank"> <figure> <img src="./icon/html.png" alt="Html" width="40" height="40"/> <figcaption> Html</figcaption> </figure> </a>
-
  <a href="https://www.w3schools.com/css/" target="_blank"> <figure> <img src="./icon/css.png" alt="CSS" width="40" height="40"/> <figcaption> CSS</figcaption> </figure> </a>
- 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <figure> <img src="./icon/js.png" alt="javascript" width="40" height="40"/> <figcaption> JavaScript</figcaption> </figure>  </a>
-
  <a href="https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15 " target="_blank"> <figure> <img src="./icon/sqlserver.png" alt="java" width="40" height="40"/> <figcaption> SQLServe</figcaption> </figure>  </a>
-
  <a href="https://dev.mysql.com/doc/ " target="_blank"> <figure> <img src="./icon/mysql.png" alt="java" width="40" height="40"/> <figcaption> MYSql</figcaption> </figure>  </a>
-
-
-
-</p>### Hi there 👋
+</p>
 
 
 
