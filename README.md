@@ -1,7 +1,7 @@
 <h1 align="center">Ola! eu me chamo josimar 👨‍💻</h1>
 <h3 align="center">Eu adoro programar, e sou persistente.</h3>
 
-- 📖 Estou Iniciando na programação e as linguagem que mais conheço é java☕ e c++ mas tambem estou aprendendo JavaScript, Css e Html
+- 📖 Estou Iniciando na programação e as linguagem que mais conheço é java e c++ mas tambem estou aprendendo JavaScript, Css e Html
 
 <h3 align="left">Você pode me encontrar:</h3>
 <p align="left">
