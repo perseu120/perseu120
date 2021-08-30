@@ -13,7 +13,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=perseu120)
 
 <h3 align="left">Linguagem e Ferramentas com que eu já tive contato:</h3>
-<p align="left">  
+<p align="baseline">  
  <a href="https://www.oracle.com/br/java/" target="_blank"> <figure> <img src="./Icon/java.png" alt="java" width="40" height="40"> <figcaption> Java</figcaption> </figure> </a>
  <a href="https://www.cplusplus.com " target="_blank"> <figure> <img src="./Icon/c++.png" alt="C++" width="40" height="40"> <figcaption> C++</figcaption> </figure>  </a>
  <a href="https://docs.python.org/pt-br/3/ " target="_blank"> <figure> <img src="./Icon/python.png" alt="Python" width="40" height="40"> <figcaption> Python</figcaption> </figure>  </a>
