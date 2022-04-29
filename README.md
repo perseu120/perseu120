@@ -1,7 +1,7 @@
 <h1 align="center">Ola! eu me chamo josimar 👨💻</h1>
 <h3 align="center">Eu adoro programar, e sou persistente.</h3>
 
-- 📖 Estou Iniciando na programação e estou aprendendo JavaScript, Css e Html, já tive um breve contato com react e gostei bastante
+- 📖 Estou Iniciando na programação e estou aprendendo JavaScript, Css e Html, já tive um breve contato com react e gostei bastante e estou fazendo um bootcamp fullstack na Driven Education
 
 <h3 align="left">Você pode me encontrar:</h3>
 <p align="left">
