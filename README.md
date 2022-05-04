@@ -7,8 +7,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/josimar-cruz-souza-a669a3218/" target="_blank"><img align="center" src="./Icon/linkedin.png" alt="Josimar" height="40" width="40" ></a>
 <a href="https://www.instagram.com/sir_perseu/?hl=pt-br" target="_blank"><img align="center" src="./Icon/instagram.png" alt="Josimar" height="40" width="40" ></a>
-<a href="https://github.com/perseu120" target="_blank"><img align="center" src="Icon/github.png" alt="Josimar" height="40" width="40" ></a>
-</p>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=perseu120)
 
