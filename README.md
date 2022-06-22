@@ -1,4 +1,4 @@
-<h1 align="center">Ola! eu me chamo josimar 👨💻</h1>
+<h1 align="center">Ola! eu me chamo josimar (alguns me chamam de Perseu) 👨💻</h1>
 <h3 align="center">Eu adoro programar, e sou persistente.</h3>
 
 - 📖 Estou Iniciando na programação e estou aprendendo JavaScript, Css e Html, já tive um breve contato com react e gostei bastante e estou fazendo um bootcamp fullstack na Driven Education
