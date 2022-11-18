@@ -1,7 +1,7 @@
 <h1 align="center">Ola! eu me chamo josimar (alguns me chamam de Perseu) 👨💻</h1>
 <h3 align="center">Eu adoro programar, e sou persistente.</h3>
 
-- 📖 Estou Iniciando na programação e estou aprendendo JavaScript, Css e Html, já tive um breve contato com react e gostei bastante e estou fazendo um bootcamp fullstack na Driven Education
+- 📖 Estou Iniciando na programação e estou aprendendo JavaScript, Css e Html atualmente estou fazendo um bootcamp fullstack na Driven Education, onde já adicionei aos meu conhecimento algumas coisas, como ORM prisma, banco de dados, servidor com NODEJS, TypeScript, React, banco de dados não relacional e como exemplo usmaos o MongoDB
 
 <h3 align="left">Você pode me encontrar:</h3>
 <p align="left">
