@@ -77,7 +77,7 @@
 <ul>
 
 <li>
-<a href="acesse.one/JosimarLinkedin" target="_blank">
+<a href="https://www.linkedin.com/in/josimar-souza-a669a3218/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Josimar Souza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -86,7 +86,7 @@
 
 <li>
 <a href="email: josimar.17@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email:  Josimar Souza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/email:  josimar.17@hotmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
