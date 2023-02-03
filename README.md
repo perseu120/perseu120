@@ -3,11 +3,6 @@
 
 - 📖 Estou Iniciando na programação e estou aprendendo JavaScript, Css e Html atualmente estou fazendo um bootcamp fullstack na Driven Education, onde já adicionei aos meu conhecimento algumas coisas, como ORM prisma, banco de dados, servidor com NODEJS, aprendi um pouco de TypeScript, React, banco de dados não relacional e como exemplo usamos o MongoDB
 
-<h3 align="left">Você pode me encontrar:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/josimar-cruz-souza-a669a3218/" target="_blank"><img align="center" src="./Icon/linkedin.png" alt="Josimar" height="40" width="40" ></a>
-<h4>email: josimar.17@hotmail.com</h4>
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=perseu120)
 
 
@@ -20,9 +15,13 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%232370ED.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML%20-%232370ED.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3%20-%232370ED.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+    ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT%20-%232370ED.svg?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+    
 
 <br>   
     
@@ -31,6 +30,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![AXIOS](https://img.shields.io/badge/AXIOS%20-%23ADD8E6.svg?style=for-the-badge&logo=AXIOS&logoColor=black)
+   ![REACT](https://img.shields.io/badge/REACT%20-%236959CD.svg?style=for-the-badge&logo=REACT&logoColor=black)
 
 <br>
 
